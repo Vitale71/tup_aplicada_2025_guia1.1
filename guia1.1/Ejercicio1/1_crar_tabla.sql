@@ -26,6 +26,14 @@ go
 
 UPDATE Personas SET Nombre = 'Daniela'
 WHERE Id = 1
+UPDATE Personas SET Nombre = 'Andrés'
+WHERE Id = 2
+UPDATE Personas SET Nombre = 'Estefania'
+WHERE Id = 3
+UPDATE Personas SET Nombre = 'Ramón'
+WHERE Id = 4
+UPDATE Personas SET Nombre = 'Adrián'
+WHERE Id = 5
 
 GO
 

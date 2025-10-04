@@ -1,6 +1,4 @@
-﻿
-
-USE Master
+﻿USE Master
 
 GO
 
@@ -13,7 +11,6 @@ CREATE DATABASE Guia1_1_Ejercicio_lucas_db
 GO
 
 USE Guia1_1_Ejercicio_lucas_db
-
 
 GO
 
